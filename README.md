@@ -5,4 +5,6 @@
 ## 姓名:羅浚佑
 # 課程筆記區
 # 作業連結區
+[作業1](https://github.com/jiunnyo/PL-Repo/blob/main/HW1.ipynb)\
+
 # 專題連結區
