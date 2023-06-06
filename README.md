@@ -15,4 +15,4 @@
 
 # 專題連結區
 [師大排課小幫手簡報](https://www.canva.com/design/DAFi9itFI4s/FMxXaRVunuoyVbBdmgjLUg/view?utm_content=DAFi9itFI4s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)\
-[爬蟲師大通識課程式碼]
+[爬蟲師大通識課程式碼](https://github.com/jiunnyo/PL-Repo/blob/main/%E6%8E%92%E8%AA%B2.ipynb)
