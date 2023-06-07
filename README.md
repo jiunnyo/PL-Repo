@@ -15,5 +15,5 @@
 
 # 專題連結區
 [師大排課小幫手簡報](https://www.canva.com/design/DAFi9itFI4s/FMxXaRVunuoyVbBdmgjLUg/view?utm_content=DAFi9itFI4s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)\
-[爬蟲師大通識課程式碼](https://github.com/jiunnyo/PL-Repo/blob/main/%E6%8E%92%E8%AA%B2.ipynb)\
+[爬蟲師大課程式碼](https://github.com/jiunnyo/PL-Repo/blob/main/%E6%8E%92%E8%AA%B2.ipynb)\
 [輸入臉書帳密登入選課沒地雷程式碼](https://github.com/jiunnyo/PL-Repo/blob/main/%E9%81%B8%E8%AA%B2%E6%B2%92%E5%9C%B0%E9%9B%B7.ipynb)
